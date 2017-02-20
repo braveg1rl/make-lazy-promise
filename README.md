@@ -1,5 +1,7 @@
 # make-lazy-promise [![Build Status](https://travis-ci.org/meryn/make-lazy-promise.png?branch=master)](https://travis-ci.org/meryn/make-lazy-promise) [![Dependency Status](https://david-dm.org/meryn/make-lazy-promise.png)](https://david-dm.org/meryn/make-lazy-promise)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/make-lazy-promise.svg)](https://greenkeeper.io/)
+
 Makes a lazy Promises/A+ promise.
 
 ## Usage
